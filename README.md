@@ -7,16 +7,16 @@ This project builds a movie recommendation system using k-Nearest Neighbors (KNN
 
 1. Exploratory Data Analysis (EDA):
 
-Analyzed the dataset to understand the ratings distribution, identified popular movies, and studied user behavior.
+   Analyzed the dataset to understand the ratings distribution, identified popular movies, and studied user behavior.
 
 2. Cosine Similarity Calculation:
 
-Constructed a pivot table and computed cosine similarity between users or movies.
+   Constructed a pivot table and computed cosine similarity between users or movies.
 
 3. Recommendation Generation:
 
-Implemented KNN to generate movie recommendations based on similarity scores.
+   Implemented KNN to generate movie recommendations based on similarity scores.
 
 ### Results:
 
-The KNN model generates accurate movie recommendations using cosine similarity based on insights gained from EDA.
+   The KNN model generates accurate movie recommendations using cosine similarity based on insights gained from EDA.
